@@ -1,0 +1,1 @@
+{"id":42, "last_name": "Ivanov", "first_name": "Ivan", "middle_name": "Ivanovich", "passport_num": "НМ279181", "passport_date": "27.01.1991", "rntrc": 3333333333, "phys_or_ent": "phys", "phone_num": "0979041214", "card_num": 4125124536988745, "e_mail": "kos@mail.com", "password": "hfbguysbfs"}
